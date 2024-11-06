@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MovieQuery-chat-bot/static/css/main.d0987edf.css",
+    "main.js": "/MovieQuery-chat-bot/static/js/main.99ffde6f.js",
+    "static/js/453.cde6021c.chunk.js": "/MovieQuery-chat-bot/static/js/453.cde6021c.chunk.js",
+    "index.html": "/MovieQuery-chat-bot/index.html",
+    "main.d0987edf.css.map": "/MovieQuery-chat-bot/static/css/main.d0987edf.css.map",
+    "main.99ffde6f.js.map": "/MovieQuery-chat-bot/static/js/main.99ffde6f.js.map",
+    "453.cde6021c.chunk.js.map": "/MovieQuery-chat-bot/static/js/453.cde6021c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0987edf.css",
+    "static/js/main.99ffde6f.js"
+  ]
+}
